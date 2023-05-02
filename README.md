@@ -1,5 +1,7 @@
 # Multi-task Affect Recognition Model
 
+![Description of a Deep Learning Model predicting Hu](https://user-images.githubusercontent.com/97404986/235732339-58214308-3577-4b52-b28c-a6aaf5b56712.jpg)
+
 This repository contains code for training and evaluating a multi-task affect recognition model based on deep learning using the PyTorch framework. The model predicts facial expressions, arousal, and valence from facial images and their corresponding landmarks.
 
 ## Prerequisites
